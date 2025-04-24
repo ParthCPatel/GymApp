@@ -1,16 +1,53 @@
-# flexify
+# 💪 Flexify - Gym & Workout Tracker App
 
-A new Flutter project.
+Flexify is a modern and minimal fitness tracking app built using **Flutter + Firebase**. It provides a beautiful interface and essential features to help users stay consistent with their workouts.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+### 🏋️‍♂️ Workout Logging
+- Add workouts with details like **exercise name**, **reps**, and **weights**.
+- Track and mark workouts as completed.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### ⏱ Stopwatch
+- Built-in stopwatch screen to time your sets or workouts.
+- Clean, readable UI with start, stop, and reset.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🌗 Light / Dark Mode Toggle
+- Instantly switch themes from the Settings screen.
+- Persistent and responsive across all screens.
+
+### 👤 Authentication
+- Firebase-based user authentication (login/logout).
+- Displays user's **name** and **email** in the Settings screen.
+
+### 🧭 Curved Navigation Bar
+- Smooth bottom navigation with 4 screens:
+  - Home
+  - Add Workout
+  - Stopwatch
+  - Settings
+
+### 📱 Responsive UI
+- Fully responsive and styled with Poppins font.
+- Consistent design and theme across all screens.
+
+---
+
+## 🛠 Tech Stack
+
+- 💙 Flutter (Dart)
+- 🔥 Firebase (Auth + Firestore)
+- 🎨 Custom UI (Dark & Light themes)
+- 🧩 Modular Screens with Shared Layouts
+
+---
+
+## 📸 Screenshots
+*Coming soon...*
+
+---
+
+## 📁 Project Structure
+
