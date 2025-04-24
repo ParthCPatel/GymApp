@@ -45,7 +45,14 @@ Flexify is a modern and minimal fitness tracking app built using **Flutter + Fir
 ---
 
 ## 📸 Screenshots
-*Coming soon...*
+![Screenshot 2025-04-24 115726](https://github.com/user-attachments/assets/e23ac31e-55fc-400f-a6eb-54e3da367e03)
+![Screenshot 2025-04-24 115958](https://github.com/user-attachments/assets/cea878f6-3c17-4135-8812-2c324f4c323a)
+![Screenshot 2025-04-24 120037](https://github.com/user-attachments/assets/0c2146ca-a014-4fe2-9816-794b37fd82cf)
+![Screenshot 2025-04-24 120118](https://github.com/user-attachments/assets/384c79c7-de40-49c3-9751-17478ec65408)
+![Screenshot 2025-04-24 120238](https://github.com/user-attachments/assets/170097a8-01b3-423a-a1b1-69289988d479)
+
+
+
 
 ---
 
